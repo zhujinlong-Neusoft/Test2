@@ -26,3 +26,6 @@ This repository is related to the development of **Saikyo** for iOS.
 * Navigate to the folder in Terminal
 * Run `pod install`
 * Open the workspace and run
+
+
+1
